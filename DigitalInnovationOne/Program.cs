@@ -9,7 +9,7 @@ namespace DigitalInnovationOne
             Ponto posicao_1 = new Ponto(7,3);
             Ponto posicao_2 = new Ponto(9,5);
             Ref refTeste = new Ref();
-
+           
             using(System.IO.TextWriter t =  System.IO.File.CreateText("TextoTeste.txt"))
             {
                 t.WriteLine("Linha 1");
