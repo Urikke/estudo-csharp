@@ -1,0 +1,16 @@
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\ESTUDO\Estudo CSHARP\Projeto-csharp-1\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
